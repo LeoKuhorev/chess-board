@@ -50,4 +50,4 @@ Then select and open `chess_board.ipynb`
 
 ---
 
-Link to PR:
+Link to PR: https://github.com/LeoKuhorev/chess-board/pull/2
